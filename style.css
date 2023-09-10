@@ -3,3 +3,27 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  color: black
+}
+header {
+  text-align: center
+}
+#featured-property {
+  text-align: center
+}
+.small-text {
+  font-size: 10px; margin-left: 500px; margin-right: 500px;
+}
+figure {
+  width: auto; text align: center;
+}
+.container{
+  display: flex; justify-content: space-between; background-color: red; text-align: center; font-size: 10px
+}
+.contact {
+  flex: 1
+}
+.grey-background{
+  background-color: grey;
+}
